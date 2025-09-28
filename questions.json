@@ -1,0 +1,326 @@
+[
+    {
+       
+        "question": "What is the past tense of 'run'?",
+        "options": ["a) run", "b) ran", "c) running", "d) runs"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Irregular verbs often have unique past tense forms.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Which sentence is grammatically correct?",
+        "options": ["a) He don't like coffee.", "b) He doesn't likes coffee.", "c) He doesn't like coffee.", "d) He not like coffee."],
+        "answer": "c",
+        "difficulty": "medium",
+        "tip": "Focus on subject-verb agreement.",
+        "language": "en"
+        
+    },
+    {
+       
+        "question": "What is the plural form of 'child'?",
+        "options": ["a) childs", "b) children", "c) childes", "d) childrens"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Some words have irregular plural forms.",
+        "language": "en"
+    },
+    {
+        "question": "Which word is a synonym for 'happy'?",
+        "options": ["a) sad", "b) joyful", "c) angry", "d) tired"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Think of words that mean the same as 'happy'.",
+        "language": "en"
+    },
+    {
+       
+        "question": "What is the correct spelling?",
+        "options": ["a) accomodate", "b) accommodate", "c) acommodate", "d) accomadate"],
+        "answer": "b",
+        "difficulty": "medium",
+        "tip": "Double-check the spelling of commonly misspelled words.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Which sentence uses the correct form of 'their'?",
+        "options": ["a) Their going to the park.", "b) They're going to the park.", "c) There going to the park.", "d) Their dog is very friendly."],
+        "answer": "d",
+        "difficulty": "medium",
+        "tip": "Pay attention to the context of the sentence.",
+        "language": "en"
+    },
+    {
+        "question": "What is the antonym of 'hot'?",
+        "options": ["a) warm", "b) cold", "c) boiling", "d) humid"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Antonyms are words with opposite meanings.",
+        "language": "en"
+    },
+    {
+
+        "question": "Which sentence is in the passive voice?",
+        "options": ["a) The cat chased the mouse.", "b) The mouse was chased by the cat.", "c) The cat is chasing the mouse.", "d) The mouse chases the cat."],
+        "answer": "b",
+        "difficulty": "medium",
+        "tip": "In passive voice, the subject receives the action.",
+        "language": "en"
+    },
+    {
+        
+        "question": "What is the superlative form of 'good'?",
+        "options": ["a) gooder", "b) best", "c) better", "d) most good"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Superlatives describe the highest degree of a quality.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Which word is a homophone for 'flower'?",
+        "options": ["a) flour", "b) flow", "c) flier", "d) floor"],
+        "answer": "a",
+        "difficulty": "easy",
+        "tip": "Homophones sound the same but have different meanings.",
+        "language": "en"
+    },
+    {
+        "question": "What is the opposite of 'difficult'?",
+        "options": ["a) simple", "b) hard", "c) tough", "d) complicated"],
+        "answer": "a",
+        "difficulty": "easy",
+        "tip": "Think of a word that means 'easy'.",
+        "language": "en"
+    },
+    {
+        "question": "Choose the correct plural of 'fox'.",
+        "options": ["a) foxes", "b) foxs", "c) foxies", "d) foxies'"],
+        "answer": "a",
+        "difficulty": "easy",
+        "tip": "Add 'es' to nouns ending in 'x'.",
+        "language": "en"
+    },
+    {
+        "question": "Which is an adjective?",
+        "options": ["a) run", "b) quickly", "c) blue", "d) happily"],
+        "answer": "c",
+        "difficulty": "easy",
+        "tip": "Adjectives describe nouns.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Pick the correctly punctuated sentence.",
+        "options": ["a) I like pizza but, I don't like pasta.", "b) I like pizza, but I don't like pasta.", "c) I like pizza but I don't like pasta.", "d) I like pizza; but I don't like pasta."],
+        "answer": "b",
+        "difficulty": "medium",
+        "tip": "Look for proper use of commas and conjunctions.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Which sentence is in the future tense?",
+        "options": ["a) She eats dinner.", "b) She ate dinner.", "c) She will eat dinner.", "d) She is eating dinner."],
+        "answer": "c",
+        "difficulty": "easy",
+        "tip": "Future tense often uses 'will'.",
+        "language": "en"
+    },
+    {
+
+        "question": "Choose the correct form of 'be' for 'They ___ at home.'",
+        "options": ["a) is", "b) are", "c) am", "d) be"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Match the verb form to the subject.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Which is a conjunction?",
+        "options": ["a) and", "b) but", "c) or", "d) all of the above"],
+        "answer": "d",
+        "difficulty": "easy",
+        "tip": "Conjunctions connect words, phrases, or clauses.",
+        "language": "en"
+    },
+    {
+        
+        "question": "What is the comparative form of 'tall'?",
+        "options": ["a) tallest", "b) taller", "c) more tall", "d) tallish"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Comparatives compare two things.",
+        "language": "en"
+    },
+    {
+        
+        "question": "Identify the noun in this sentence: 'The boy kicked the ball.'",
+        "options": ["a) kicked", "b) boy", "c) the", "d) ball"],
+        "answer": "b",
+        "difficulty": "easy",
+        "tip": "Nouns are people, places, or things.",
+        "language": "en"
+    },
+    
+    {
+        
+        "question": "Choose the correct sentence.",
+        "options": ["a) She don't want to go.", "b) She doesn't wants to go.", "c) She doesn't want to go.", "d) She dont wants to go."],
+        "answer": "c",
+        "difficulty": "medium",
+        "tip": "Focus on subject-verb agreement.",
+        "language": "en"
+    },
+    {
+        "question": "What is the subjunctive form of 'to be' in English?",
+        "options": ["a) is", "b) was", "c) were", "d) be"],
+        "answer": "c",
+        "difficulty": "hard",
+        "tip": "The subjunctive mood is used to express hypothetical or non-real situations.",
+        "language": "en"
+    },
+    {
+        
+        "question": "In French, which verb is used as an auxiliary verb for reflexive verbs in the passé composé?",
+        "options": ["a) avoir", "b) être", "c) faire", "d) aller"],
+        "answer": "b",
+        "difficulty": "hard",
+        "tip": "Reflexive verbs in French always use this auxiliary verb in compound tenses.",
+        "language": "fr"
+    },
+    {
+        
+        "question": "What is the correct plural form of 'das Kind' in German?",
+        "options": ["a) die Kinder", "b) die Kinden", "c) die Kinderen", "d) die Kind"],
+        "answer": "a",
+        "difficulty": "hard",
+        "tip": "The plural form of 'das Kind' changes both the article and the noun.",
+        "language": "de"
+    },
+    {
+        
+        "question": "Which tense is used in English to describe an action that will have been completed by a certain point in the future?",
+        "options": ["a) Future Perfect", "b) Future Continuous", "c) Present Perfect", "d) Past Perfect"],
+        "answer": "a",
+        "difficulty": "hard",
+        "tip": "This tense often uses 'will have' followed by the past participle.",
+        "language": "en"
+    },
+    {
+       
+        "question": "In French, what is the gender of the noun 'voiture'?",
+        "options": ["a) Masculine", "b) Feminine", "c) Neutral", "d) None of the above"],
+        "answer": "b",
+        "difficulty": "hard",
+        "tip": "Most nouns ending in '-e' in French are feminine, but there are exceptions.",
+        "language": "fr"
+    },
+    {
+        "question": "What is the dative case of 'der Mann' in German?",
+        "options": ["a) dem Mann", "b) den Mann", "c) des Mannes", "d) der Mann"],
+        "answer": "a",
+        "difficulty": "hard",
+        "tip": "The dative case is used to indicate the indirect object of a sentence.",
+         "language": "de"
+    },
+    {
+        
+        "question": "Which of the following is a correct example of a French irregular verb in the present tense?",
+        "options": ["a) je vais", "b) je va", "c) je aller", "d) je allé"],
+        "answer": "a",
+        "difficulty": "hard",
+        "tip": "Irregular verbs in French often have unique conjugations in the present tense.",
+         "language": "fr"
+    },
+    {
+        
+        "question": "In English, what is the term for a verb that requires a direct object?",
+        "options": ["a) Intransitive verb", "b) Transitive verb", "c) Auxiliary verb", "d) Modal verb"],
+        "answer": "b",
+        "difficulty": "hard",
+        "tip": "These verbs cannot stand alone and need an object to complete their meaning.",
+         "language": "en"
+    },
+    
+        {
+    
+          "question": "What is the dative case of 'der Mann' in German?",
+          "options": ["a) dem Mann", "b) den Mann", "c) des Mannes", "d) der Mann"],
+          "answer": "a",
+          "difficulty": "hard",
+          "tip": "The dative case is used to indicate the indirect object of a sentence.",
+           "language": "de"
+        },
+        {
+        
+          "question": "What is the German word for 'book'?",
+          "options": ["a) Buch", "b) Tisch", "c) Stuhl", "d) Heft"],
+          "answer": "a",
+          "difficulty": "easy",
+          "tip": "'Buch' means book in German.",
+           "language": "de"
+        },
+        {
+     
+          "question": "Which sentence uses the correct word order for a subordinate clause?",
+          "options": [
+            "a) Ich glaube, er kommt nicht.",
+            "b) Ich glaube, dass er nicht kommt.",
+            "c) Ich glaube, dass kommt er nicht.",
+            "d) Ich glaube, kommt er nicht dass."
+          ],
+          "answer": "b",
+          "difficulty": "medium",
+          "tip": "In subordinate clauses, the verb goes to the end.",
+           "language": "de"
+        },
+        {
+          "language": "Spanish",
+          "question": "What is the correct form of 'ser' for 'yo'?",
+          "options": ["a) soy", "b) eres", "c) es", "d) somos"],
+          "answer": "a",
+          "difficulty": "easy",
+          "tip": "'Yo soy' means 'I am'."
+        },
+    
+        {
+          
+          "question": "What is the French word for 'apple'?",
+          "options": ["a) pomme", "b) poire", "c) pêche", "d) fraise"],
+          "answer": "a",
+          "difficulty": "easy",
+          "tip": "'Pomme' means apple in French.",
+           "language": "fr"
+        },
+        {
+    
+          "question": "Which of these is the correct passé composé form for 'je (manger)'?",
+          "options": ["a) je mangé", "b) j’ai mangé", "c) je suis mangé", "d) j’avais mangé"],
+          "answer": "b",
+          "difficulty": "medium",
+          "tip": "Passé composé of 'manger' uses 'avoir' as the auxiliary: j’ai mangé.",
+           "language": "fr"
+        },
+        {
+          
+          "question": "What does 'Il faut que je parte' mean?",
+          "options": [
+            "a) I have to leave",
+            "b) I want to leave",
+            "c) I left",
+            "d) I will leave"
+          ],
+          "answer": "a",
+          "difficulty": "hard",
+          "tip": "'Il faut que' introduces the subjunctive mood, often meaning 'It is necessary that...'",
+           "language": "fr"
+        }
+      
+      
+
+]
