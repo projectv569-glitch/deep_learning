@@ -1,5 +1,4 @@
 # deep_learning
-# DL
 # Adaptive AI Tutor
 
 An AI-powered adaptive tutor that uses reinforcement learning, machine learning, and natural language processing to provide personalized learning experiences.
