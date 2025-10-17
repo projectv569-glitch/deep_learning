@@ -45,3 +45,17 @@ scikit-learn
 matplotlib
 joblib
 torch
+
+## How to run the code
+Install all the packages and libraries or download the env\Scripts
+
+open the directory
+. cd filename
+
+activate the env file
+. env\Scripts\activate
+
+run the main file
+. python app.py
+
+
